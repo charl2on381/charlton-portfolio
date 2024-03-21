@@ -5,7 +5,7 @@ import { IoIosMail } from 'react-icons/io';
 export const socialLinks = [
   {
     id: 1,
-    href: 'https://facebook.com/marventures11',
+    href: 'https://web.facebook.com/charl2on381',
     icon: FaFacebookF,
   },
   {
@@ -15,12 +15,12 @@ export const socialLinks = [
   },
   {
     id: 3,
-    href: 'https://github.com/marventures',
+    href: 'https://github.com/charl2on381',
     icon: FaGithubAlt,
   },
   {
     id: 4,
-    href: 'mailto:marvedcodes@gmail.com',
+    href: 'mailto:charl2on381@gmail.com',
     icon: IoIosMail,
   },
 ];
