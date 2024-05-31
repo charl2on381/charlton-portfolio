@@ -63,6 +63,12 @@ export const aboutList3 = [
 export const aboutList4 = [
   {
     id: 1,
+    company: 'Local Government Unit - Municipality of Argao',
+    year: '2007 - Present',
+    position: 'Local Assessment Officer I / Business Permit and Licensing Officer / Information Technology Officer',
+  },
+  {
+    id: 2,
     company: 'GoIT Bootcamp',
     year: '2024',
     position: 'Full Stack Developer',
