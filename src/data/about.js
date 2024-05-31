@@ -55,7 +55,7 @@ export const aboutList3 = [
   },
   {
     id: 3,
-    school: 'Cebu Institure of Technology',
+    school: 'Cebu Institute of Technology',
     year: '2021',
     course: 'Bachelor of Science in Electronics and Communications Engineering',
   },
