@@ -43,21 +43,21 @@ export const aboutList2 = [
 export const aboutList3 = [
   {
     id: 1,
-    school: 'Hogwarts University',
-    year: '2006',
+    school: 'Talaga Elementary School',
+    year: '1993',
     course: 'Elementary',
   },
   {
     id: 2,
-    school: 'Hogwarts University',
-    year: '2012',
-    course: 'Senior High School',
+    school: 'Saint Michael School',
+    year: '1997',
+    course: 'High School',
   },
   {
     id: 3,
-    school: 'Hogwarts University',
-    year: '2016',
-    course: 'Bachelor of Science in Computer Science',
+    school: 'Cebu Institure of Technology',
+    year: '2021',
+    course: 'Bachelor of Science in Electronics and Communications Engineering',
   },
 ];
 export const aboutList4 = [
