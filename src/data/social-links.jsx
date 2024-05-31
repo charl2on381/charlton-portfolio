@@ -10,7 +10,7 @@ export const socialLinks = [
   },
   {
     id: 2,
-    href: 'https://linkedin.com/in/charltonhoteo',
+    href: 'https://www.linkedin.com/in/charltonhocamisteo',
     icon: FaLinkedinIn,
   },
   {
